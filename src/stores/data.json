@@ -1,0 +1,16 @@
+{
+  "0": {
+    "type": "supervisor",
+    "details": "Monitors activity to identify project roadblocks"
+  },
+  "1": {
+    "type1": "team builder",
+    "details1": "Scans our talent network to create the optimal team for your project",
+    "type2": "karma",
+    "details2": "Regularly evaluates our talent to ensure quality"
+  },
+  "2": {
+    "type": "calculator",
+    "details": "Uses data from past projects to provide better delivery estimates"
+  }
+}
